@@ -1,0 +1,11 @@
+onlineShop\entity\Authorities.class
+onlineShop\entity\SalesOrder.class
+onlineShop\entity\ShippingAddress.class
+onlineShop\entity\BillingAddress.class
+onlineShop\entity\Customer.class
+onlineShop\entity\Cart.class
+onlineShop\entity\CartItem.class
+onlineShop\Application.class
+onlineShop\ApplicationConfig.class
+onlineShop\entity\Product.class
+onlineShop\entity\User.class

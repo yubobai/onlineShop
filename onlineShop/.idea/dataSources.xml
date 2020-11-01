@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="ecommerce@laiproject-instance.cgxibw32d7lk.us-east-2.rds.amazonaws.com" uuid="42645c89-4553-42ae-80bc-2e4e6b0cbe3a">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://laiproject-instance.cgxibw32d7lk.us-east-2.rds.amazonaws.com:3306/ecommerce</jdbc-url>
+    </data-source>
+  </component>
+</project>
